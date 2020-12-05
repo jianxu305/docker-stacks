@@ -3,7 +3,7 @@
 [![DockerHub badge](https://images.microbadger.com/badges/version/jupyter/base-notebook.svg)](https://microbadger.com/images/jupyter/base-notebook "Recent tag/version of jupyter/base-notebook")
 [![Binder badget](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter/docker-stacks/master?filepath=README.ipynb "Launch a jupyter/base-notebook container on mybinder.org")
 
-# This is a slight addition to the official [Jupyter Images](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html).  It enables openAI Gym rending when on Windows 10 using the tensorflow notebook
+# This is a slight addition to the official [Jupyter Images](https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html).  It enables openAI Gym rending on Windows 10 using the tensorflow notebook
 
 
 # Jupyter Docker Stacks
